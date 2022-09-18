@@ -48,4 +48,5 @@ latest.mc.s2n.tech に参加しているアクティブメンバーで、かつ 
   - Prefix 製にしとくといいかも
 - `color:` にはラベルの色を HEX で `#` を抜いて指定します。
 
-このファイルが更新されるか、 [Actions](https://github.com/approvers/latest.mc.s2n.tech/actions/new) ページから手動実行もできます。
+このファイルが更新されると同期が開始されます。
+[Actions](https://github.com/approvers/latest.mc.s2n.tech/actions/new) ページから手動実行もできます。
