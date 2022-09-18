@@ -9,17 +9,20 @@ https://papermc.io/downloads
 
 ### プラグイン
 
-- AFKPlus
-- AFKPlusPrefix
-- ArmoredElytra
-- AutomatedCrafting
-- BetterShulkerBoxes
-- dynmap
-- LuckPerms
-- Multiverse-Core
-- Multiverse-Inventories
-- ServerBackup
-- SmartItemSort
+- AFKPlus (`/afk`コマンド追加するやつ)
+- AFKPlusPrefix (afk中にユーザー一覧にAFKかどうかが出る)
+- ArmoredElytra (エリトラと防具を合成できる) 
+- AutomatedCrafting (ドロッパーで自動クラフトができるようになる)
+- BetterShulkerBoxes (シュルカーボックスが設置せずに開けるやつ)
+- dynmap (Web上で地図を表示できるやつ)
+- LuckPerms (権限管理するやつ)
+- Multiverse-Core (複数ワールド管理するやつ)
+- Multiverse-Inventories (ワールド間のインベントリ共有を設定するやつ)
+- ServerBackup (自動バックアップするやつ)
+- SmartItemSort (倉庫作るやつ)
+- TabTPS (TPSなどの情報がユーザー一覧に表示されるやつ)
+- TreeAssist (木の一括破壊や葉っぱが早く消えるようになるやつ)
+- WorldEdit (建造物を素早く作れるようになるやつ)
 
 詳細はゲーム内で `/plugins`
 
